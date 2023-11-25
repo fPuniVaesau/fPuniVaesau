@@ -6,7 +6,17 @@
   </a>
 </h1>
 <h3 align="center">A Digital Craftsman | Developer</h3>
-<hr> 
+<hr>
+
+<div align="center">
+  
+  💡 I’m currently working on **some small personal projects**
+
+  🌱 I’m currently learning **React, Rust, AWS, Docker**
+
+  ⚡ Fun fact: **I come from a small island in the middle of the South Pacific called Samoa**
+  
+</div>
 
 <!--
 **fPuniVaesau/fPuniVaesau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
