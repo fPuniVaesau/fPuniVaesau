@@ -22,6 +22,9 @@
   <a href="mailto:filopunivaesau@gmail.com">
     <img src="https://shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"/>
   </a>
+  <a href="https://www.linkedin.com/in/filo-puni-vaesau-436801261/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
 <!--
