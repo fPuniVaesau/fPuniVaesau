@@ -18,6 +18,12 @@
   
 </div>
 
+<div align="center">
+  <a href="mailto:filopunivaesau@gmail.com">
+    <img src="https://shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"/>
+  </a>
+</div>
+
 <!--
 **fPuniVaesau/fPuniVaesau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
