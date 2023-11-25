@@ -1,6 +1,6 @@
 # 🗿 Filo Puni Vaesau
 
-**'Digital Craftsman (Developer/Creator)'**
+
 
 <!--
 **fPuniVaesau/fPuniVaesau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
