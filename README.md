@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3>A Digital Craftsman | Developer</h3>
+<h3 align="center">A Digital Craftsman | Developer</h3>
 
 <!--
 **fPuniVaesau/fPuniVaesau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
