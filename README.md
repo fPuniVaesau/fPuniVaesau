@@ -30,6 +30,16 @@
   </a>
 </div>
 
+<hr>
+
+<h2 align="center">⁌ Languages | Frameworks | Tools ⁍</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?github,javascript,nodejs,python,java"/><br>
+  </a>
+</div>
+
 <!--
 **fPuniVaesau/fPuniVaesau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
