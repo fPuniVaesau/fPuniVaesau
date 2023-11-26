@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2 align="center">⁌ Languages | Frameworks | Tools ⁍</h2>
+<h2 align="center">⚠️ Languages | Frameworks | Tools ⚠️</h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h3 align="center"> ⚡️ Statistics ⚡️</h3>
+<h2 align="center"> ⚡️ Statistics ⚡️</h2>
 <br>
 
 <div align="center">
