@@ -60,3 +60,5 @@
 <div align="center">
   <img width=350 src="https://streak-stats.demolab.com/?user=fPuniVaesau&count_private=true&theme=react&border_radius=7" alt="Stat Streak"/>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fPuniVaesau)](https://git.io/streak-stats)
