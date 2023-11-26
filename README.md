@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2 align="center">⚠️ Languages | Frameworks | Tools ⚠️</h2>
+<h3 align="center">⚠️ Languages | Frameworks | Tools ⚠️</h3>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -45,7 +45,7 @@
 <hr>
 
 <div align="center">
-  <h2>📙 My Contributions 📙</h2>
+  <h3>📙 My Contributions 📙</h3>
   <br>
   <img alt="Snake animation for my contributions" src="https://raw.githubusercontent.com/fPuniVaesau/fPuniVaesau/output/github-contribution-grid-snake.svg"/>
  
@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center"> ⚡️ Statistics ⚡️</h2>
+<h3 align="center"> ⚡️ Statistics ⚡️</h3>
 <br>
 
 <div align="center">
