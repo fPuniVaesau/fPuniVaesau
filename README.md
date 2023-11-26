@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FfPuniVaesau&label=Profile%20Views&labelColor=%234a4759&countColor=%23bbc15d&style=plastic"/>
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FfPuniVaesau&label=Views&labelColor=%234a4759&countColor=%23bbc15d&style=plastic"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
