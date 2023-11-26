@@ -60,9 +60,9 @@
 <br>
 
 <div align="center">
-  <img width=500 src="https://streak-stats.demolab.com/?user=fPuniVaesau&count_private=true&theme=rising-sun&border_radius=7" alt="Stat Streak"/>
+  <img width=500 src="https://streak-stats.demolab.com/?user=fPuniVaesau&count_private=true&theme=graywhite&border_radius=7" alt="Stat Streak"/>
   <br/>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=fPuniVaesau&show_icons=true&theme=codeSTACKr&rank_icon=github&border_radius=7" alt="Readme Stats"/>
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=fPuniVaesau&show_icons=true&theme=graywhite&rank_icon=github&border_radius=7" alt="Readme Stats"/>
 </div>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=fPuniVaesau)](https://git.io/streak-stats) -->
