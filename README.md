@@ -51,3 +51,12 @@
  
   <br/><br/><br/>
 </div>
+
+<hr/>
+
+<h3 align="center"> ⚡️ Statistics ⚡️</h3>
+<br>
+
+<div align="center">
+  <img width=350 src="https://streak-stats.demolab.com/?user=fPuniVaesau&count_private=true&theme=react&border_radius=7" alt="Stat Streak"/>
+</div>
