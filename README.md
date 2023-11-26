@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&pause=1000&color=9CAD4B&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋🏽;+I'm+Filo+Puni+Vaesau+🗿;"/>
   </a>
 </h1>
-<h3 align="center">A Digital Craftsman | Developer</h3>
+<h3 align="center"> 💣 Digital Craftsman | Developer</h3>
 <hr>
 
 <div align="center">
