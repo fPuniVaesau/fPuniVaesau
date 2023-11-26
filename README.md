@@ -48,7 +48,7 @@
   <h3>📙 My Contributions 📙</h3>
   <br>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <!-- <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> -->
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="Snake animation for my contributions" src="https://raw.githubusercontent.com/fPuniVaesau/fPuniVaesau/output/github-contribution-grid-snake.svg"/>
  
   <br/><br/>
