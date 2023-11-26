@@ -49,7 +49,7 @@
   <br>
   <img alt="Snake animation for my contributions" src="https://raw.githubusercontent.com/fPuniVaesau/fPuniVaesau/output/github-contribution-grid-snake.svg"/>
  
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
