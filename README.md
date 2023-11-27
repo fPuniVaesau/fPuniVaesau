@@ -68,9 +68,6 @@
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fPuniVaesau)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
-<div align="center">
-  <img src="">
-</div>
 
 <!-- <a href="https://giphy.com/gifs/bear-pixel-art-ioana-sopov-RIpj8HJGVGGTUdM76b"></a> -->
 
