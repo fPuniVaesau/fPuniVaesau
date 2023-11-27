@@ -69,9 +69,10 @@
 </div>
 
 <div align="center">
-  <img src="https://giphy.com/embed/RIpj8HJGVGGTUdM76b">
+  <img src="">
 </div>
 
 <!-- <a href="https://giphy.com/gifs/bear-pixel-art-ioana-sopov-RIpj8HJGVGGTUdM76b"></a> -->
 
 
+[](https://giphy.com/gifs/bear-pixel-art-ioana-sopov-RIpj8HJGVGGTUdM76b?utm_source%3Dmedia-link%26utm_medium%3Dlanding%26utm_campaign%3DMedia%20Links%26utm_term%3D)
