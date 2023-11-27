@@ -68,8 +68,10 @@
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fPuniVaesau)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
-<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/RIpj8HJGVGGTUdM76b" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div align="center">
+  <img src="https://giphy.com/embed/RIpj8HJGVGGTUdM76b">
+</div>
 
-<a href="https://giphy.com/gifs/bear-pixel-art-ioana-sopov-RIpj8HJGVGGTUdM76b"></a>
+<!-- <a href="https://giphy.com/gifs/bear-pixel-art-ioana-sopov-RIpj8HJGVGGTUdM76b"></a> -->
 
 
