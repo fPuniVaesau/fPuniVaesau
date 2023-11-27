@@ -66,5 +66,4 @@
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=fPuniVaesau&show_icons=true&theme=graywhite&rank_icon=github&border_radius=7" alt="Readme Stats"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fPuniVaesau)](https://git.io/streak-stats)
 
