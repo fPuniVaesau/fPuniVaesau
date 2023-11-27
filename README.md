@@ -63,7 +63,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fPuniVaesau&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
   <br/>
-  <img width=500 src="https://github-readme-stats-fpunivaesaus-projects.vercel.app/api?username=fPuniVaesau&show_icons=true&theme=graywhite&rank_icon=github&border_radius=7" alt="Readme Stats"/>
+  <img width=500 src="https://github-readme-stats-fpunivaesaus-projects.vercel.app/api?username=fPuniVaesau&show_icons=true&theme=graywhite&rank_icon=github" alt="Readme Stats"/>
 
 </div>
 
