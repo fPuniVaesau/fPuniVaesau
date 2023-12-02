@@ -49,10 +49,6 @@
 
   <h3>📙 My Contributions 📙</h3>
   <br>
-  <div>
-    <img align="left" style="aspect-ratio: 1/1" width=250 height=250 src="https://images.unsplash.com/photo-1648878763542-631cba6c7c1a?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >
-  <div>
-  <br>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="Snake animation for my contributions" src="https://raw.githubusercontent.com/fPuniVaesau/fPuniVaesau/output/github-contribution-grid-snake-dark.svg"/>
