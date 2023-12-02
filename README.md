@@ -66,7 +66,6 @@
 
   <br/>
   <img width=500 src="https://github-readme-stats-fpunivaesaus-projects.vercel.app/api?username=fPuniVaesau&show_icons=true&theme=graywhite&rank_icon=github" alt="Readme Stats"/>
-
 </div>
 
 
