@@ -50,7 +50,7 @@
   <h3>📙 My Contributions 📙</h3>
   <br>
   <div>
-    <img align="left" width=250 height=250 src="https://images.unsplash.com/photo-1648878763542-631cba6c7c1a?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >
+    <img align="left" style="object-fit: cover" width=250 height=250 src="https://images.unsplash.com/photo-1648878763542-631cba6c7c1a?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >
   <div>
   <br>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
