@@ -11,7 +11,7 @@
   <img src="/assets/FiloBanner.png">
 </div>
 <hr>
-<br>
+
 <div align="center">
   
   💡 I’m currently working on **some small personal projects**
@@ -21,7 +21,6 @@
   ⚡ Fun fact: **I come from a small island in the middle of the South Pacific called Samoa** 🏝️
   
 </div>
-<br>
 
 <div align="center">
   <a href="mailto:filopunivaesau@gmail.com">
