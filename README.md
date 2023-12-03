@@ -8,7 +8,7 @@
 </h1>
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1667021836621-ef302544b61f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTZ8fDNkfGVufDB8MHwwfHx8MA%3D%3D">
+  <img src="https://images.unsplash.com/photo-1682709848256-ea9a528e2f79?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjUyfHwzZHxlbnwwfDB8MHx8fDA%3D">
 </div>
 <hr>
 
