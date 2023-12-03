@@ -8,7 +8,7 @@
 </h1>
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 <div align="center">
-  <img src="/assets/3DFilo.png">
+  <img src="/assets/FiloBanner.png">
 </div>
 <hr>
 
