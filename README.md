@@ -22,6 +22,8 @@
   
 </div>
 
+<br>
+
 <div align="center">
   <a href="mailto:filopunivaesau@gmail.com">
     <img src="https://shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"/>
