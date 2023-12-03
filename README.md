@@ -18,7 +18,7 @@
 
   🌱 I’m currently learning **React, Rust, AWS, Docker**
 
-  ⚡ Fun fact: **I come from a small island in the middle of the South Pacific called Samoa**
+  ⚡ Fun fact: **I come from a small island in the middle of the South Pacific called Samoa** 🏝️
   
 </div>
 
