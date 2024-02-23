@@ -1,4 +1,3 @@
-
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FfPuniVaesau&label=Views&labelColor=%234a4759&countColor=%23bbc15d&style=flat-square"/>
 
 <h1 align="center">
@@ -16,10 +15,10 @@
   
   💡 I’m currently working on **some small personal projects**
 
-  🌱 I’m currently learning **React, Rust, AWS, Docker**
+🌱 I’m currently learning **React, Rust, AWS, Docker**
 
-  ⚡ Fun fact: **I come from a small island in the middle of the South Pacific called Samoa** 🏝️
-  
+⚡ Fun fact: **I come from a small island in the middle of the South Pacific called Samoa** 🏝️
+
 </div>
 
 <div align="center">
@@ -67,8 +66,4 @@
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fPuniVaesau&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
-  <!-- <br/>
-  <img width=500 src="https://github-readme-stats-fpunivaesaus-projects.vercel.app/api?username=fPuniVaesau&show_icons=true&theme=graywhite&rank_icon=github" alt="Readme Stats"/> -->
 </div>
-
-
