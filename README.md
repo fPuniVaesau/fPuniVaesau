@@ -40,10 +40,8 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,javascript,nodejs"/><br>
-    <img src="https://skillicons.dev/icons?i=python,java,vscode"/><br>
-    <img src="https://skillicons.dev/icons?i=bash,html,css,mysql"/><br>
-    <img src="https://skillicons.dev/icons?i=react,rust,php"/><br>
+    <img src="https://skillicons.dev/icons?i=github,git,javascript,nodejs,python,java,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=bash,html,css,mysql,react,rust,php"/>
   </a>
 </div>
 
