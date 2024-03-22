@@ -8,11 +8,9 @@
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 
 <div align="center">
-
-  <p align="left">This is some sample text</p>
   <!-- <img src="/assets/FiloBanner.png"> -->
   <!-- <img src="https://64.media.tumblr.com/476bb112282a3ef7f7396de26f3d1b60/tumblr_pd8427dWCU1qbw2q1o1_1280.gif" /> -->
-  <img align="right" height=300px src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif" alt="Pokemon Snorlax">
+  <img height=300px src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif" alt="Pokemon Snorlax">
 </div>
 <hr>
 
