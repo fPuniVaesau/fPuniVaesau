@@ -9,7 +9,7 @@
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 
 <div align="center">
-    <img height=150px src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif" alt="Pokemon Blastoise">
+    <img height=150px src="https://i.redd.it/ckp5gcuzv7581.gif" alt="Pokemon Blastoise">
 </div>
 <hr>
 
