@@ -9,8 +9,8 @@
 <div>
   <div align="left">
     <h1>Filo Puni Vaesau</h1>
-    <h3 font-size="10px">💭 Digital Craftsman | Developer</h3>
-    <p></p>
+    <h3>💭 Digital Craftsman | Developer</h3>
+    <p>This is a test to position my bio on the page. This will eventually be replaced with some text that will be meaningful</p>
   </div>
   <div align="right">
     <img height=150px src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif" alt="Pokemon Blastoise">
