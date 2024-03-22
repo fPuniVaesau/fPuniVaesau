@@ -12,7 +12,7 @@
     <h3>💭 Digital Craftsman | Developer</h3>
     <p>This is a test to see how this will display on the readme profile.</p>
   </div>
-  <div>
+  <div align="right">
     <img height=150px src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif" alt="Pokemon Blastoise">
   </div>
 </div>
