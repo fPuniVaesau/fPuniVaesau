@@ -8,7 +8,8 @@
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 <div align="center">
   <!-- <img src="/assets/FiloBanner.png"> -->
-  <img src="https://64.media.tumblr.com/476bb112282a3ef7f7396de26f3d1b60/tumblr_pd8427dWCU1qbw2q1o1_1280.gif" />
+  <!-- <img src="https://64.media.tumblr.com/476bb112282a3ef7f7396de26f3d1b60/tumblr_pd8427dWCU1qbw2q1o1_1280.gif" /> -->
+  <img src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif">
 </div>
 <hr>
 
@@ -69,6 +70,6 @@
 </div>
 
 <!-- Snorlax Gif -->
-<img src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif">
+
 
 <!-- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGYxd2RrNy1mYTYyZDViNi1hMWIyLTRiMmItYjQwNy0wMmU3Mzc0NzYxNDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mLCZ3Vy_z29MbBgLUgiJIocq4NNs0o-pr276Ju8hAtA"> -->
