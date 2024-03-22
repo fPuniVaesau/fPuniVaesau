@@ -10,6 +10,7 @@
   <div align="left">
     <h1>Filo Puni Vaesau</h1>
     <h3>💭 Digital Craftsman | Developer</h3>
+    <p width=45ch>This is a test to position my bio on the page. This will eventually be replaced with some text that will be meaningful</p>
     <p>This is a test to position my bio on the page. This will eventually be replaced with some text that will be meaningful</p>
   </div>
   <div align="right">
