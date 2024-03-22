@@ -13,7 +13,7 @@
     <p>This is a test to see how this will display on the readme profile.</p>
   </div>
 
-  <img align="right" height=150px src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif" alt="Pokemon Blastoise">
+  <img clear="both" align="right" height=150px src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif" alt="Pokemon Blastoise">
 </div>
 <hr>
 
