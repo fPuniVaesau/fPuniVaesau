@@ -8,7 +8,7 @@
 
 
 
-<div align="right">
+<div>
   <div align="left">
     <h2>Filo Puni Vaesau</h2>
     <h3>💭 Digital Craftsman | Developer</h3>
