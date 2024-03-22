@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 
-<div align="center">
+<div align="right">
   <p align="left">This is a sample text</p>
   <!-- <img src="/assets/FiloBanner.png"> -->
   <!-- <img src="https://64.media.tumblr.com/476bb112282a3ef7f7396de26f3d1b60/tumblr_pd8427dWCU1qbw2q1o1_1280.gif" /> -->
