@@ -8,8 +8,8 @@
 
 <div>
   <div align="left">
-    <h2>Filo Puni Vaesau</h2>
-    <p>💭 Digital Craftsman | Developer</p>
+    <h1>Filo Puni Vaesau</h1>
+    <h3>💭 Digital Craftsman | Developer</h3>
     <p>This is a test to see how this will display on the readme profile.</p>
   </div>
   <div align="right">
