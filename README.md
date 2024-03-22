@@ -6,14 +6,10 @@
   </a>
 </h1>
 
-<div>
-  <div align="left">
+<div align="center">
     <h1>Filo Puni Vaesau</h1>
     <h3>💭 Digital Craftsman | Developer</h3>
-  </div>
-  <div align="right">
     <img height=150px src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif" alt="Pokemon Blastoise">
-  </div>
 </div>
 <hr>
 
