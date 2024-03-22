@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&pause=1000&color=F9F6EE&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+👋🏽;+Take+a+look+around!+〄;"/>
   </a>
 </h1>
+
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 
 <div align="right">
@@ -22,9 +23,9 @@
   
   💡 I’m currently working on **some small personal projects**
 
-🌱 I’m currently learning **React, Rust, AWS, Docker**
+  🌱 I’m currently learning **React, Rust, AWS, Docker**
 
-⚡ Fun fact: **I come from a small island in the middle of the South Pacific called Samoa** 🏝️
+  ⚡ Fun fact: **I come from a small island in the middle of the South Pacific called Samoa** 🏝️
 
 </div>
 
