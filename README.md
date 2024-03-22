@@ -8,7 +8,10 @@
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 
 <div align="right">
-  <p align="left">This is a sample text</p>
+  <div align="left">
+    <h3>Filo Puni Vaesau</h3>
+    <p>This is a test to see how this will display on the readme profile.</p>
+  </div>
   <!-- <img src="/assets/FiloBanner.png"> -->
   <!-- <img src="https://64.media.tumblr.com/476bb112282a3ef7f7396de26f3d1b60/tumblr_pd8427dWCU1qbw2q1o1_1280.gif" /> -->
   <img height=150px src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif" alt="Pokemon Snorlax">
