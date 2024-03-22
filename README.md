@@ -15,7 +15,7 @@
   </div>
   <!-- <img src="/assets/FiloBanner.png"> -->
   <!-- <img src="https://64.media.tumblr.com/476bb112282a3ef7f7396de26f3d1b60/tumblr_pd8427dWCU1qbw2q1o1_1280.gif" /> -->
-  <img margin-right=50px height=150px src="https://i.pinimg.com/originals/83/0b/53/830b53f8bbd0e9dbcade87da95abdad0.gif" alt="Pokemon Snorlax">
+  <img margin-right=50px height=150px src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif" alt="Pokemon Blastoise">
 </div>
 <hr>
 
