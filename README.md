@@ -65,7 +65,9 @@
 <h3 align="center">⚡️ Statistics ⚡️</h3>
 <br>
 
-
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fPuniVaesau&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
+</div>
 
 <!-- Snorlax Gif -->
 
