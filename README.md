@@ -9,7 +9,7 @@
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 
 <div align="center">
-    <img src="https://i.redd.it/ckp5gcuzv7581.gif" alt="banner">
+    <img src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gif" alt="banner">
 </div>
 <hr>
 
