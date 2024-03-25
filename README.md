@@ -9,7 +9,7 @@
 <h3 align="center">💭 Digital Craftsman | Developer</h3>
 
 <div align="center">
-    <img src="https://64.media.tumblr.com/ec6056e2ec9e2ddba8f50851fcad796d/tumblr_pauzs2OHH01tes331o3_640.gif" alt="banner">
+    <img src="https://cdna.artstation.com/p/assets/images/images/053/271/820/original/pixel-jess-timeless-nostalgia.gif?1661834713" alt="banner">
 </div>
 <hr>
 
